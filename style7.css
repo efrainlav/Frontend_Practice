@@ -1,0 +1,32 @@
+
+/* CLASE 7  */
+
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --very-light-pinki: #c7c7c7;
+    --text-input-field: #f7f7f7;
+    --hospital-green: #acd9B2;
+    --sm: 14px;
+    --md: 18px;
+    --lg: 18px;
+}
+
+
+body {
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+  }
+
+.desktopmenu{
+    width: 100px;
+    height: auto;
+    border: 1px solid var(--very-light-pinki);
+    border-radius: 6px;
+    padding: 20px 20px 0 20px;
+    }
+    
+    .desktopmenu ul{
+        list-style: none;
+    }
+    
