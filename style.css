@@ -510,3 +510,14 @@ body {
       font-size: var(--md);
       font-weight: bold;
 }
+
+
+/* CLASE 10  */
+
+.orderid10{
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 16px;
+    align-items: center;
+    margin-bottom: 12px;
+}
